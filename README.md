@@ -3,6 +3,8 @@
 This project showcases a simple car display UI using **React + Tailwind CSS**.  
 It is developed as part of learning React fundamentals.
 
+# 📍 Server will start at:
+http://localhost:5173
 ---
 
 ## 📌 Features
@@ -37,6 +39,4 @@ src/
 npm install
 npm run dev
 
-## 📍 Server will start at:
-http://localhost:5173
 
