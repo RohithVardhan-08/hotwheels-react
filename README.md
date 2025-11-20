@@ -3,6 +3,9 @@
 This project showcases a simple car display UI using **React + Tailwind CSS**.  
 It is developed as part of learning React fundamentals.
 
+🔗 **Live Demo:**  
+https://rohithvardhan-08.github.io/hotwheels-react/
+
 ---
 
 ## 📌 Features
